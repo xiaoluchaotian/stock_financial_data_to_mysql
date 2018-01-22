@@ -1,0 +1,2 @@
+# stock_financial_data_to_mysql
+将A股所有股票的日K线的数据写入本地mysql数据库，收集从某个时间段以来的股票财报数据，包括营收、市值、股本等数据。
